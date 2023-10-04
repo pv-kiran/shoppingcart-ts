@@ -20,7 +20,7 @@ A simple shopping cart logic implementation built with Vite, React, and TypeScri
 2. Navigate to the project directory:
 
    ```bash
-   cd your-shopping-cart-repo
+   cd shoppingcart-ts
 
 3. Install the dependencies
 
